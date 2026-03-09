@@ -1,15 +1,15 @@
-# 🚀 Kodexa
+# 🚀 KodexaDo
 
-**Kodexa** is a software engineering company focused on building modern, scalable, and intelligent digital solutions.
+**KodexaDo** is a software engineering company focused on building modern, scalable, and intelligent digital solutions.
 
 🌐 Website: https://www.kodexado.com/
 📍 Based in the Dominican Republic
 
 ---
 
-## 🧠 About Kodexa
+## 🧠 About KodexaDo
 
-Kodexa is focused on designing and developing modern software systems that help companies scale faster and operate more efficiently.
+KodexaDo is focused on designing and developing modern software systems that help companies scale faster and operate more efficiently.
 
 Our work spans across:
 
